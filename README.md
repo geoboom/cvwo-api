@@ -1,25 +1,5 @@
-# README
+# CVWO API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The websockets/REST API for my CVWO todolist-ish app.
+See https://github.com/geoboom/cvwo-frontend.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# cvwo-api
